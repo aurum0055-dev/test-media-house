@@ -1,0 +1,7 @@
+{
+  "name": "BBC Bitesize Clone & Sports Hub",
+  "description": "A comprehensive educational and sports portal inspired by the BBC, featuring course exploration, news feeds, and live sports standings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
